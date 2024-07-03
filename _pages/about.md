@@ -20,6 +20,12 @@ social: true # includes social icons at the bottom of the page
 
 Welcome to my page! I am a data scientist in Google, focusing on GenAI safety. Previously, I was a postdoctoral researcher in Upenn. I am also a cat father (pronounced as 'servant').
 
+I love doing research. My research interests included causal inference and survival analysis. You can find my publication on [Google scholar](https://scholar.google.com/citations?user=Dh1O7JAAAAAJ&hl=en). I have a huge list of research ideas and I don't have time yet to implement, thus I am looking forward to collaboration, let me know through email!
+
+My current interest is on responsible, explainable, and safe AI. I recently got into this world, barely knew some literature but hasn't started any official research yet.
+
+
+
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
